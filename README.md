@@ -18,19 +18,19 @@ Survive endless waves of zombies, collect upgrades, and defeat bosses!
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/menu.png)
+![Main Menu](screenshots/Menu.png)
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/Game.png)
 
 ### Upgrades
-![Upgrades](screenshots/upgrades.png)
+![Upgrades](screenshots/Upgrades.png)
 
 ### Boss Wave
-![Boss](screenshots/boss.png)
+![Boss](screenshots/Boss.png)
 
 ### Game Over
-![Game Over](screenshots/gameover.png)
+![Game Over](screenshots/GameOver.png)
 
 ---
 
