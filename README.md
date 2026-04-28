@@ -1,7 +1,7 @@
-# 🧟 Swarm
+# 🧟 Swarm Survival
 
 A fast-paced top-down zombie survival shooter built with Unity.
-Play it now on [itch.io](https://yaakovamoyal.itch.io/swarm)!
+Play it now on [itch.io](https://yaakovamoyal.itch.io/swarmsurvival)!
 
 ---
 
@@ -58,7 +58,7 @@ Survive endless waves of zombies, collect upgrades, and defeat bosses!
 
 ## 🚀 Play Now
 
-👉 [Play on itch.io](https://yaakovamoyal.itch.io/swarm)
+👉 [Play on itch.io](https://yaakovamoyal.itch.io/swarmsurvival)
 
 ---
 
